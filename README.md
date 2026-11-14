@@ -121,7 +121,7 @@ In future projects, I want to continue improving my CSS skills, especially in th
 ## Author
 
 - GitHub: [@Sebascode20](https://github.com/Sebascode20)
-- Frontend Mentor: [My Frontend Mentor Profile](https://www.frontendmentor.io/)
+- Frontend Mentor: [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/Sebascode20)
 
 ---
 
